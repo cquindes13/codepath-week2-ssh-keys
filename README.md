@@ -37,7 +37,7 @@ Used **ssh-copy-id** and **scp** to enable passwordless authentication between s
 ---
 
 ### 🔐 Part 3: SSH Encryption & Decryption (OpenSSL)
-Commands used:
+**Commands used:**
 
 openssl genrsa -out ~/.ssh/privatekey.pem 2048
 
@@ -52,7 +52,7 @@ openssl pkeyutl -decrypt -inkey ~/.ssh/privatekey.pem -in secret.txt.encrypted -
 --- 
 
 ### 🧾 Part 4: Git Commit Signing
-Commands used:
+**Commands used:**
 
 git init
 
