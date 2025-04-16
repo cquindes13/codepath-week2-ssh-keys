@@ -28,4 +28,4 @@ By the end of this project, I was able to:
 ### ✅ Part 1: SSH Key Generation
 Used `ssh-keygen` to generate a 4096-bit RSA key pair:
 ```bash
-ssh-keygen -t rsa -b 4096 -C "CYB101 Ubuntu Key                                                                                  
+ssh-keygen -t rsa -b 4096 -C "CYB101 Ubuntu Key                                                                                 
